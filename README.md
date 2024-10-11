@@ -1,2 +1,3 @@
-# virus-notepad
-virus sederhana spam open notepad 
+Tugas Keamanan Komputer
+Nama : Rendi Rediska
+Nim : 211011400229
